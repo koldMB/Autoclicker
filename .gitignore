@@ -1,0 +1,6 @@
+main.spec
+convert_to_ico.py
+dist/autoclicker_settings.json
+build
+autoclicker_settings.json
+autoclicker_presets.json
